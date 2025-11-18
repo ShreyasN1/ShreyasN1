@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ShreyasN1<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning Java, Python , HTML,CSS, JS and SQL<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me: https://www.linkedin.com/in/shreyas-nyapathi
+- 👋 Hi, I’m @ShreyasN1<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning Java, Python , JS and SQL<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me: https://www.linkedin.com/in/shreyas-nyapathi
 
 
 ## 🌐 Socials:
